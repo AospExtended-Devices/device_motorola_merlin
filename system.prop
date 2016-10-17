@@ -15,3 +15,8 @@ persist.radio.mot_ecc_enabled=1
 persist.radio.multisim.config=dsds
 persist.radio.plmn_name_cmp=1
 ro.telephony.ril.config=simactivation
+
+# Higher fling velocities to smooth scrolling
+# and provide better responsiveness
+ro.min.fling_velocity=140
+ro.max.fling_velocity=20000
