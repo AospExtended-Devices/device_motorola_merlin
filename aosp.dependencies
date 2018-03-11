@@ -5,7 +5,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "innfinite4evr/android_kernel_motorola_msm8916",
+    "repository":  "Alberto97/android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch":      "oreo-mr1"
   },
